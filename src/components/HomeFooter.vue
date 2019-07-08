@@ -17,9 +17,11 @@
         </el-col>
       </el-row>
       <p>这是test-1.0分支编写的文本</p>
+      <p>这是test-1.0编写的内容</p>
       <p>这是master分支的内容</p>
       <mian>分支master的内容，新建的文本列</mian>
       <mian>分支master的内容，哦哦哦哦哦</mian>
+      <p>这是test2.0的内容</p>
 
     </div>
 </template>
