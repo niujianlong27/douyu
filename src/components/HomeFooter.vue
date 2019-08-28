@@ -22,7 +22,6 @@
       <mian>分支111111master的内容，新建的文本列</mian>
       <mian>分支master的内容，哦哦哦哦哦</mian>
       <!--<p>这是test2.0的内容</p>-->
-      <span>test2.0的输入</span>
 
     </div>
 </template>
