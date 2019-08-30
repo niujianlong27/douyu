@@ -2,6 +2,7 @@
   <div class="home-content">
     <p>这是master分支编写的文本</p>
     <p>这是test1.0编写的---</p>
+    <p>测试的编写</p>
     <div v-for="lists in datas">
 
         <el-row>
