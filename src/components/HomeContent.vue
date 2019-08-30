@@ -3,6 +3,8 @@
     <p>这是master分支编写的文本</p>
     <p>123</p>
     <div>要发到test测试</div>
+    <div>devcommit</div>
+
     <div v-for="lists in datas">
 
         <el-row>
