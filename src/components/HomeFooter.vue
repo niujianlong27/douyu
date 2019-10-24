@@ -19,6 +19,9 @@
       <div>
         这是test1.0 的标签
       </div>
+      <p>
+        这是dev 的标签
+      </p>
 
     </div>
 </template>
