@@ -16,6 +16,9 @@
           版权所有 www.douyu.com 鄂ICP备15011961号-1
         </el-col>
       </el-row>
+      <div>
+        这是test1.0 的标签
+      </div>
 
     </div>
 </template>
