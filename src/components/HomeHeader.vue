@@ -73,7 +73,7 @@
       show:function () {
 
         this.$emit('showi',this.isShow);
-
+ console.log(2)
       }
     },
     mounted() {
