@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     <router-view/>
+<!--    测试代码-->
   </div>
 </template>
 
